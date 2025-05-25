@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="cone" size="6.000000 4.733023" />
+    <ImageTarget name="sphere1" size="6.000000 1.867110" />
+    <ImageTarget name="solar" size="6.000000 3.693750" />
+    <ImageTarget name="horse1" size="5.000000 2.811111" />
+    <ImageTarget name="letd" size="5.000000 5.390000" />
+    <ImageTarget name="letb" size="4.000000 3.240000" />
+    <ImageTarget name="letc" size="6.000000 5.503125" />
+    <ImageTarget name="LETa" size="1.000000 1.094017" />
+    <ImageTarget name="Cube" size="6.000000 6.270000" />
+  </Tracking>
+</QCARConfig>
